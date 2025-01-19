@@ -1,0 +1,18 @@
+flask;
+flask-cors;
+requests;
+python-dotenv;
+cohere;
+PyPDF2;
+openai;
+pydub;
+textblob;
+opencv-python;
+google-cloud-speech;
+flask_sqlalchemy;
+sqlalchemy;
+sqlalchemy.orm;
+# run this command to install the required packages
+# cd backend
+# pip install -r requirements.txt
+
