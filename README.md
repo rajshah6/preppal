@@ -55,7 +55,7 @@ To run PrepPal locally, follow these steps:
 - **Deployment**: _Coming Soon..._
 
 ## Live Demo
-This is the Live Demo of our [submission](https://dorahacks.io/buidl/21711) to UoftHacks 12:
+This is the Live Demo of our [submission](https://dorahacks.io/buidl/21711) to UofTHacks 12:
 armaan add link to full video
 
 ## Project Structure
