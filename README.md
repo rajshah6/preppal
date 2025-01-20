@@ -84,19 +84,4 @@ armaan add link to full video
 - **Database**: SQLite, SQLAlchemy
 - **Deployment**: _Coming Soon..._
 
-## Project Structure
-
-```plaintext
-preppal/
-├── public/         # Static files
-├── src/            # Source code
-│   ├── components/ # Reusable UI components
-│   ├── pages/      # Application pages
-│   ├── utils/      # Utility functions
-├── server/         # Backend server code
-├── .env.example    # Environment variable template
-├── package.json    # Node.js dependencies
-└── README.md       # Project documentation
-```
-
 ### Give PrepPal a try and take your interview preparation to the next level!
