@@ -28,7 +28,6 @@ To run PrepPal locally, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd ai_interviewer
    cd frontend
    ```
 
@@ -52,7 +51,7 @@ To run PrepPal locally, follow these steps:
    virtualenv flask
    cd flask
    source bin/activate
-   cd ai_interviewer
+   cd ..
    pip install -r requirements.txt
    ```
 
