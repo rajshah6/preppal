@@ -46,13 +46,17 @@ To run PrepPal locally, follow these steps:
 
 7. After installing all modules, run ```python3 app.py``` to initialize the backend and use the app.
 
-## Technologies Used (unfinished)
+## Technologies Used
 
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Flask, Python
-- **AI**: OpenAI API, GCP, Cohere API, OpenCV
+- **Generative AI**: OpenAI API, GCP, Cohere API, OpenCV
 - **Database**: SQLite, SQLAlchemy
 - **Deployment**: _Coming Soon..._
+
+## Live Demo
+This is the Live Demo of our [submission](https://dorahacks.io/buidl/21711) to UoftHacks 12:
+armaan add link to full video
 
 ## Project Structure
 
