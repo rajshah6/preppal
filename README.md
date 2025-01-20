@@ -19,14 +19,16 @@ PrepPal is your ultimate AI-powered interview preparation assistant. Whether you
 
 To run PrepPal locally, follow these steps:
 
+### Running the Frontend:
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ajith-Bondili/ai_interview_bot
+   git clone https://github.com/Ajith-Bondili/ai_interviewer
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd ai_interview_bot
+   cd ai_interviewer
    cd frontend
    ```
 
@@ -42,9 +44,24 @@ To run PrepPal locally, follow these steps:
 
 5. Open your browser and go to `http://localhost:5173` to use the frontend of PrepPal.
 
-6. Create a flask virtual environment (follow installations in ```requirements.txt```) to run the backend of PrepPal.
+### Running the Backend:
 
-7. After installing all modules, run ```python3 app.py``` to initialize the backend and use the app.
+6. Create a Flask virtual environment:
+
+   ```bash
+   virtualenv flask
+   cd flask
+   source bin/activate
+   cd ai_interviewer
+   pip install -r requirements.txt
+   ```
+
+7. After installing all modules, initialize the backend:
+
+   ```bash
+   cd backend
+   python3 app.py
+   ```
 
 ## Technologies Used
 
@@ -82,23 +99,4 @@ OPENAI_API_KEY="your openai_api key"
 COHERE_API_KEY="your cohere-api key"
 ```
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push to your forked repository:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
-Give PrepPal a try and take your interview preparation to the next level!
+### Give PrepPal a try and take your interview preparation to the next level!
