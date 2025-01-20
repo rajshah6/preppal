@@ -62,6 +62,20 @@ To run PrepPal locally, follow these steps:
    python3 app.py
    ```
 
+## Environment Variables
+
+To run PrepPal, you need to configure the following environment variables in a `.env` file:
+
+```env
+OPENAI_API_KEY="your openai-api key"
+COHERE_API_KEY="your cohere-api key"
+```
+
+## Live Demo
+This is the Live Demo of our [submission](https://dorahacks.io/buidl/21711) to UofTHacks 12:
+armaan add link to full video
+
+
 ## Technologies Used
 
 - **Frontend**: React.js, Tailwind CSS
@@ -69,10 +83,6 @@ To run PrepPal locally, follow these steps:
 - **Generative AI**: OpenAI API, GCP, Cohere API, OpenCV
 - **Database**: SQLite, SQLAlchemy
 - **Deployment**: _Coming Soon..._
-
-## Live Demo
-This is the Live Demo of our [submission](https://dorahacks.io/buidl/21711) to UofTHacks 12:
-armaan add link to full video
 
 ## Project Structure
 
@@ -87,15 +97,6 @@ preppal/
 ├── .env.example    # Environment variable template
 ├── package.json    # Node.js dependencies
 └── README.md       # Project documentation
-```
-
-## Environment Variables
-
-To run PrepPal, you need to configure the following environment variables in a `.env` file:
-
-```env
-OPENAI_API_KEY="your openai_api key"
-COHERE_API_KEY="your cohere-api key"
 ```
 
 ### Give PrepPal a try and take your interview preparation to the next level!
