@@ -15,6 +15,15 @@ PrepPal is your ultimate AI-powered interview preparation assistant. Whether you
 - **24/7 Accessibility**: Practice interviews anytime, anywhere.
 
 
+## Technologies Used
+
+- **Frontend**: React.js, Tailwind CSS
+- **Backend**: Flask, Python
+- **API's**: OpenAI API, GCP, Cohere API
+- **Libraries**: OpenCV, 
+- **Database**: SQLite, SQLAlchemy
+
+
 ## Installation
 
 To run PrepPal locally, follow these steps:
@@ -74,14 +83,5 @@ COHERE_API_KEY="your cohere-api key"
 ## Live Demo
 This is the Live Demo of our [submission](https://dorahacks.io/buidl/21711) to UofTHacks 12:
 armaan add link to full video
-
-
-## Technologies Used
-
-- **Frontend**: React.js, Tailwind CSS
-- **Backend**: Flask, Python
-- **Generative AI**: OpenAI API, GCP, Cohere API, OpenCV
-- **Database**: SQLite, SQLAlchemy
-- **Deployment**: _Coming Soon..._
 
 ### Give PrepPal a try and take your interview preparation to the next level!
