@@ -118,9 +118,13 @@ COHERE_API_KEY="your cohere-api key"
 ```
 `Note:` You must replace input your own api keys.
 
+<div align="center">
+   
+## Live Demo & Submission 
 
-## Live Demo
-This is the Live Demo of our [submission](https://dorahacks.io/buidl/21711) to UofTHacks 12:
+</div>
+
+Click [here to see our submission](https://dorahacks.io/buidl/21711) to UofTHacks 12!:
 armaan add link to full video
 
 ### Give PrepPal a try and take your interview preparation to the next level!
