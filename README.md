@@ -136,7 +136,7 @@ COHERE_API_KEY="your cohere-api key"
   ```bash
    Ajith Kumar Singh Bondili
    Armaan Gupta: a585gupt@uwaterloo.ca
-   Nikhil Hooda
+   Nikhil Hooda: n7hooda@uwaterloo.ca
    Raj Shah
    ```
 
