@@ -103,8 +103,12 @@ To run PrepPal locally, follow these steps:
    cd backend
    python3 app.py
    ```
+   
+<div align="center">
 
-## Environment Variables
+## Environment Variables 🌎
+
+</div>
 
 To run PrepPal, you need to configure the following environment variables in a `.env` file:
 
