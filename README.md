@@ -128,4 +128,26 @@ Click [here](https://www.youtube.com/watch?v=0uulnpFgpyc) to see our demo video!
 
 Click [here](https://dorahacks.io/buidl/21711) to see our submission to UofTHacks 12!
 
-### Give PrepPal a try and take your interview preparation to the next level!
+<div align="center">
+
+</div>
+
+<div align="center">
+
+## Creators 📫
+
+</div>
+
+  ```bash
+   Ajith Bondili: 
+   Armaan Gupta: a585gupt@uwaterloo.ca
+   Nikhil Hooda:
+   Raj Shah:
+   ```
+
+<div align="center">
+
+### Be sure to give PrepPal a try and take your interview prep to the next level! 📈
+
+</div>
+
