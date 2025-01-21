@@ -134,10 +134,10 @@ COHERE_API_KEY="your cohere-api key"
 </div>
 
   ```bash
-   Ajith Kumar Singh Bondili: 
-   Armaan Gupta: a585gupt@uwaterloo.ca
-   Nikhil Hooda:
-   Raj Shah:
+   Ajith Kumar Singh Bondili
+   Armaan Gupta
+   Nikhil Hooda
+   Raj Shah
    ```
 
 <div align="center">
