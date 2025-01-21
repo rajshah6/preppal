@@ -55,7 +55,7 @@ To run PrepPal locally, follow these steps:
 
 <div align="center">
    
-### Running the Frontend:
+### Frontend:
 
 </div>
 
@@ -83,7 +83,7 @@ To run PrepPal locally, follow these steps:
 
 <div align="center">
    
-### Running the Backend:
+### Backend:
 
 </div>
 
@@ -112,6 +112,8 @@ To run PrepPal, you need to configure the following environment variables in a `
 OPENAI_API_KEY="your openai-api key"
 COHERE_API_KEY="your cohere-api key"
 ```
+`Note:` You must replace input your own api keys.
+
 
 ## Live Demo
 This is the Live Demo of our [submission](https://dorahacks.io/buidl/21711) to UofTHacks 12:
