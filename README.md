@@ -33,8 +33,11 @@ PrepPal is your ultimate AI-powered interview preparation assistant. Whether you
 - **Progress Tracking**: Monitor your improvement over time with insightful analytics.
 - **24/7 Accessibility**: Practice interviews anytime, anywhere.
 
+<div align="center">
+   
+## Technology Stack 🛠️
 
-## Technologies Used
+</div>
 
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Flask, Python
@@ -42,12 +45,19 @@ PrepPal is your ultimate AI-powered interview preparation assistant. Whether you
 - **Libraries**: OpenCV, Recharts 
 - **Database**: SQLite, SQLAlchemy
 
+<div align="center">
+   
+## Installation 📦
 
-## Installation
+</div>
 
 To run PrepPal locally, follow these steps:
 
+<div align="center">
+   
 ### Running the Frontend:
+
+</div>
 
 1. Clone the repository:
    ```bash
@@ -71,7 +81,11 @@ To run PrepPal locally, follow these steps:
 
 5. Open your browser and go to `http://localhost:5173` to use the frontend of PrepPal.
 
+<div align="center">
+   
 ### Running the Backend:
+
+</div>
 
 6. Create a Flask virtual environment:
 
