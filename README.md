@@ -17,8 +17,11 @@ PrepPal is your ultimate AI-powered interview preparation assistant. Whether you
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/b35b5c2e-b314-44e2-8881-ea8e593a452e" />
 
 <div align="center">
+   
 ## Features ✨
+
 </div>
+
 
 - **Interactive Mock Interviews**: Simulates real interview scenarios with dynamic question-and-answer sessions.
 - **AI Feedback**: Receive detailed feedback on your responses, including strengths and areas for improvement.
