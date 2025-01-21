@@ -20,7 +20,7 @@ PrepPal is your ultimate AI-powered interview preparation assistant. Whether you
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Flask, Python
 - **API's**: OpenAI, GCP, Cohere
-- **Libraries**: OpenCV 
+- **Libraries**: OpenCV, Recharts 
 - **Database**: SQLite, SQLAlchemy
 
 
