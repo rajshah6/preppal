@@ -139,7 +139,7 @@ Click [here](https://dorahacks.io/buidl/21711) to see our submission to UofTHack
 </div>
 
   ```bash
-   Ajith Bondili: 
+   Ajith Kumar Singh Bondili: 
    Armaan Gupta: a585gupt@uwaterloo.ca
    Nikhil Hooda:
    Raj Shah:
