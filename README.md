@@ -22,10 +22,17 @@ PrepPal is your ultimate AI-powered interview preparation assistant. Whether you
 
 <div align="center">
    
-## Features ✨
+## Live Demo & Submission 🚀
 
 </div>
 
+Click [here](https://www.youtube.com/watch?v=0uulnpFgpyc) to see our demo video!
+
+Click [here](https://dorahacks.io/buidl/21711) to see our submission to UofTHacks 12!
+   
+## Features ✨
+
+</div>
 
 - **Interactive Mock Interviews**: Simulates real interview scenarios with dynamic question-and-answer sessions.
 - **AI Feedback**: Receive detailed feedback on your responses, including strengths and areas for improvement.
@@ -117,20 +124,6 @@ OPENAI_API_KEY="your openai-api key"
 COHERE_API_KEY="your cohere-api key"
 ```
 `Note:` You must replace input your own api keys.
-
-<div align="center">
-   
-## Live Demo & Submission 🚀
-
-</div>
-
-Click [here](https://www.youtube.com/watch?v=0uulnpFgpyc) to see our demo video!
-
-Click [here](https://dorahacks.io/buidl/21711) to see our submission to UofTHacks 12!
-
-<div align="center">
-
-</div>
 
 <div align="center">
 
