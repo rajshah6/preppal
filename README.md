@@ -124,6 +124,8 @@ COHERE_API_KEY="your cohere-api key"
 
 </div>
 
+Click [here](https://www.youtube.com/watch?v=0uulnpFgpyc) to see our demo video!
+
 Click [here](https://dorahacks.io/buidl/21711) to see our submission to UofTHacks 12!
 
 ### Give PrepPal a try and take your interview preparation to the next level!
