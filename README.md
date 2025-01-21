@@ -55,7 +55,7 @@ To run PrepPal locally, follow these steps:
 
 <div align="center">
    
-### Frontend:
+### Frontend
 
 </div>
 
@@ -83,7 +83,7 @@ To run PrepPal locally, follow these steps:
 
 <div align="center">
    
-### Backend:
+### Backend
 
 </div>
 
