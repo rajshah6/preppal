@@ -12,9 +12,13 @@ PrepPal is your ultimate AI-powered interview preparation assistant. Whether you
 
 </div>
 
-<img width="500" alt="Image" src="https://github.com/user-attachments/assets/4d59ffa8-b973-47b8-8964-14aea226cb2e" />
+<div align="center">
+<img width="750" align="center" alt="Image" src="https://github.com/user-attachments/assets/4d59ffa8-b973-47b8-8964-14aea226cb2e" />
+</div>
 
-<img width="500" alt="Image" src="https://github.com/user-attachments/assets/b35b5c2e-b314-44e2-8881-ea8e593a452e" />
+<div align="center">
+<img width="750" align="center" alt="Image" src="https://github.com/user-attachments/assets/b35b5c2e-b314-44e2-8881-ea8e593a452e" />
+</div>
 
 <div align="center">
    
