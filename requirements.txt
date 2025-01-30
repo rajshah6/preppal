@@ -12,6 +12,7 @@ google-cloud-speech;
 flask_sqlalchemy;
 sqlalchemy;
 sqlalchemy.orm;
+gunicorn==23.0.0;
 # run this command to install the required packages
 # cd backend
 # pip install -r requirements.txt
