@@ -1,5 +1,5 @@
 import logging
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 from cohere_api import generate_questions, extract_text_from_pdf
 from flask_cors import CORS
 from sqlalchemy import create_engine
@@ -14,7 +14,7 @@ from audio_transcription import process_user_video
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='../frontend/dist', static_url_path='/')
 CORS(app, resources={"/*": {"origins": "*"}})  # Allow requests from React dev server
 
 UPLOAD_FOLDER = './uploads'
@@ -164,18 +164,10 @@ def submit_answer():
         logger.error(f"Error in /api/submit-answer: {e}")
         return jsonify({"error": "Internal Server Error"}), 500
 
-# @app.route('/api/next-question', methods=['POST'])
-# def next_question():
-#     try:
-#         # Retrieve form data
 
-
-#         return jsonify({"feedback": results}), 200
-
-#     except Exception as e:
-#         logger.error(f"Error in /api/next-question: {e}")
-#         return jsonify({"error": "Internal Server Error"}), 500
-    
+@app.route('/')
+def index():
+    return send_from_directory(app.static_folder, 'index.html')
 
 if __name__ == '__main__':
     app.run()
