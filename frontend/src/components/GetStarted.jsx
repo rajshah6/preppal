@@ -61,7 +61,7 @@ const GetStarted = () => {
       navigate("/practice", { state: { questions: data.questions } });
     } catch (err) {
       console.error("Error:", err);
-      setError("Failed to submit the form. Please try again.");
+      setError("Backend is temporarily down. Please try again later or run locally.");
     } finally {
       setIsLoading(false); // Hide loading spinner
     }
