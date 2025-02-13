@@ -4,7 +4,11 @@
 
 </div>
 
-PrepPal is your ultimate AI-powered interview preparation assistant. Whether you're gearing up for technical, behavioral, or industry-specific interviews, PrepPal provides personalized and interactive mock interviews to help you ace the big day.
+PrepPal is your ultimate AI-powered interview preparation assistant. Whether you're gearing up for technical, behavioral, or industry-specific interviews, PrepPal provides personalized and interactive mock interviews to help you ace the big day. 
+
+[Visit the site here!](https://prep-pal-ai.vercel.app)
+
+Note: The backend is **_temporarily unavailable_**. If you wish to use the interviewer, follow the steps below with your own API keys.
 
 <div align="center">
 
