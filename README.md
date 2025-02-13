@@ -52,7 +52,7 @@ Click [here](https://dorahacks.io/buidl/21711) to see our submission to UofTHack
 - **Backend**: Flask, Python
 - **API's**: OpenAI, GCP, Cohere
 - **Libraries**: OpenCV, Recharts 
-- **Database**: SQLite, SQLAlchemy
+- **Database**: SQLite, MongoDB, SQLAlchemy, Mongoose
 
 <div align="center">
    
