@@ -10,3 +10,7 @@ __pycache__/
 venv
 
 backend/aksb-448207-44ea7e884b32.json
+
+node_modules
+package-lock.json
+package.json

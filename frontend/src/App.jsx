@@ -6,6 +6,7 @@ import PracticeQuestion from './components/Practice';
 import Feedback from './components/Feedback';
 import Login from './components/Login';
 import Dashboard from './components/Dashboard';
+import { Analytics } from "@vercel/analytics/react";
 
 const App = () => {
   return (
