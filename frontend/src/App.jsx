@@ -18,7 +18,6 @@ const App = () => {
         <Route path="/practice" element={<PracticeQuestion />} />
         <Route path="/feedback" element={<Feedback />} />
         <Route path="/dashboard" element={<Dashboard />} />
-        <Analytics />
       </Routes>
     </Router>
   );
