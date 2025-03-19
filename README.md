@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/0c5ca989-9335-4a95-8c46-17f756368b89)<div align="center">
-
 # PrepPal :crystal_ball: :computer:
 
 </div>
