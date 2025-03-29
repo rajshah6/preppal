@@ -5,7 +5,7 @@ const About = () => {
       <section className="bg-gradient-to-r from-gray-800 via-gray-900 to-gray-800 rounded-2xl shadow-lg p-8 text-center">
         <h2 className="text-4xl font-extrabold text-white mb-4">What We Offer</h2>
         <p className="text-lg text-white leading-relaxed">
-          AI Interview Helper is an advanced platform that leverages artificial intelligence to help you master your interview skills. Through personalized practice sessions and real-time feedback, we prepare you for success in your next interview.
+          PrepPal is an advanced platform that leverages artificial intelligence to help you master your interview skills. Through personalized practice sessions and real-time feedback, we prepare you for success in your next interview.
         </p>
       </section>
 
