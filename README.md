@@ -30,7 +30,7 @@ Note: The backend is **_temporarily unavailable_**. If you wish to use the inter
 
 </div>
 
-Click [here](https://www.youtube.com/watch?v=0uulnpFgpyc) to see our demo video!
+[![See the demo!](https://img.youtube.com/vi/0uulnpFgpyc/maxresdefault.jpg)](https://www.youtube.com/watch?v=0uulnpFgpyc)
 
 Click [here](https://dorahacks.io/buidl/21711) to see our submission to UofTHacks 12!
    
