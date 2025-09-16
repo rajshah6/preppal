@@ -6,7 +6,7 @@ PrepPal is your ultimate AI-powered interview preparation assistant. Whether you
 
 [Visit the site here!](https://preppal.work)
 
-Note: The backend is **_temporarily unavailable_**. If you wish to use the interviewer, follow the steps below with your own API keys.
+Note: The backend is **_temporarily unavailable_** due to increasing costs. If you wish to use the interviewer, follow the steps below with your own API keys.
 
 <div align="center">
 
