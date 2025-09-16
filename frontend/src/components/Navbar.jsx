@@ -71,7 +71,7 @@ const Navbar = () => {
               {/* GitHub Icon and Log In Button */}
               <div className="hidden sm:flex sm:flex-1 sm:justify-end items-center">
                 <a
-                  href="https://github.com/rajshah6/ai-interviewer"
+                  href="https://github.com/rajshah6/preppal"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-300 hover:text-white mr-6"
